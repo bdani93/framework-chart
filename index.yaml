@@ -20,3 +20,23 @@ entries:
     urls:
     - https://bdani93.github.io/framework-chart/fission-all-1.5.0.tgz
     version: 1.5.0
+  openfaas:
+  - apiVersion: v1
+    appVersion: 0.9.7
+    created: 2019-10-20T22:38:58.725149032Z
+    description: erverless Kubernetes with OpenFaaS (Functions as a Service).
+    digest: 07e6430f73d1eee0dfb4bd558bc05d51d828332ce2ec7d5b25a0b3722c175bc1
+    engine: gotpl
+    home: https://www.openfaas.com/
+    keywords:
+    - openfaas
+    - serverless
+    maintainers:
+    - email: soamvasani@platform9.com
+      name: Soam Vasani
+    - email: contact@tachingchen.com
+      name: Ta Ching Chen
+    name: openfaas
+    urls:
+    - https://bdani93.github.io/framework-chart/openfaas-0.9.7.tgz
+    version: 0.9.7
