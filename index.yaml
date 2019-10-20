@@ -24,7 +24,7 @@ entries:
   - apiVersion: v1
     appVersion: 0.9.7
     created: 2019-10-20T22:38:58.725149032Z
-    description: erverless Kubernetes with OpenFaaS (Functions as a Service).
+    description: Serverless Kubernetes with OpenFaaS (Functions as a Service).
     digest: 07e6430f73d1eee0dfb4bd558bc05d51d828332ce2ec7d5b25a0b3722c175bc1
     engine: gotpl
     home: https://www.openfaas.com/
