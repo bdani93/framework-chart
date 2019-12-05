@@ -20,6 +20,26 @@ entries:
     urls:
     - https://bdani93.github.io/framework-chart/fission-all-1.5.0.tgz
     version: 1.5.0
+  fission-all:
+  - apiVersion: v1
+    appVersion: 1.7.0
+    created: 2019-12-06T06:57:58.725149032Z
+    description: Fission is a fast serverless framework for Kubernetes.
+    digest: 07e6430f73d1eee0dfb4bd558bc05d51d828332ce2ec7d5b25a0b3722c175bc1
+    engine: gotpl
+    home: http://fission.io/
+    keywords:
+    - fission
+    - serverless
+    maintainers:
+    - email: soamvasani@platform9.com
+      name: Soam Vasani
+    - email: contact@tachingchen.com
+      name: Ta Ching Chen
+    name: fission-all
+    urls:
+    - https://bdani93.github.io/framework-chart/fission-all-1.7.0.tgz
+    version: 1.7.0
   openfaas:
   - apiVersion: v1
     appVersion: 0.9.7
